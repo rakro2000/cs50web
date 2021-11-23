@@ -2,3 +2,7 @@ img {
   object-position: center;
   object-fit: contain;
 }
+
+.hidden {
+  display: none;
+}
